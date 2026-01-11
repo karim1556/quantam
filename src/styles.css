@@ -1,0 +1,6 @@
+/* Minimal styles used by the app layout */
+html,body,#root{height:100%;margin:0}
+body{font-family:Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,"Helvetica Neue",Arial}
+
+.min-h-screen{min-height:100vh}
+.bg-gradient-to-br{ /* simple fallback */ }
